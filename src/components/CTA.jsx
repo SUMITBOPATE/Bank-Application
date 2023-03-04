@@ -1,6 +1,4 @@
 import React from 'react'
-import styles from "../style";
-import Button from "./Button";
 
 const CTA = () => {
   return (
